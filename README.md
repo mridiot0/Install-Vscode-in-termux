@@ -1,5 +1,5 @@
 # install-Vscode-in-termux
-In this tutorial I'll show you how to install vs code in termux
+How to install vs code in termux
 
 
 first install termux from play-store
